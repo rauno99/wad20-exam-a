@@ -10,7 +10,8 @@ npm install
 npm run serve
 ```
 
-#Setup
+
+# Setup
 
 Fork this project!
 
@@ -23,7 +24,7 @@ and [here](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and
 
 My email and username on github is: `cotne.kekelia@yahoo.com` and `tsotnekekelia`
 
-#Tasks
+# Tasks
 Modify [Entries.vue](./src/components/Entries.vue) so that it displays all the 
 entry objects that are passed to it from [App.vue](./src/App.vue)
 
@@ -37,5 +38,5 @@ button label has to change accordingly
 
 Your app should look something like this: 
 
-![img](./src/assets/screenshot.png)
+![img](./src/assets/screenshot1.png) ![img](./src/assets/screenshot2.png)
 
